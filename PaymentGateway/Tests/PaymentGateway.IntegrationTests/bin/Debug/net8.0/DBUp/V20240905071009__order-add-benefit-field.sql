@@ -1,0 +1,4 @@
+BEGIN;
+ALTER TABLE `order`
+    ADD COLUMN `effective_benefit` VARCHAR(512) DEFAULT '' NOT NULL;
+COMMIT;

@@ -1,0 +1,4 @@
+BEGIN;
+ALTER TABLE `payment`
+    ADD COLUMN `refund_id` VARCHAR(64) DEFAULT '' NOT NULL;
+COMMIT;

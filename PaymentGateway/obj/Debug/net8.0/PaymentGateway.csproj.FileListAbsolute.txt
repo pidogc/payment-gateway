@@ -1,0 +1,17 @@
+/Users/joeg/project/easypos.api.git/PaymentGateway/bin/Debug/net8.0/PaymentGatewaySQL/V20240801002642__add-payment-config-table.sql
+/Users/joeg/project/easypos.api.git/PaymentGateway/bin/Debug/net8.0/PaymentGateway.deps.json
+/Users/joeg/project/easypos.api.git/PaymentGateway/bin/Debug/net8.0/PaymentGateway.runtimeconfig.json
+/Users/joeg/project/easypos.api.git/PaymentGateway/bin/Debug/net8.0/PaymentGateway.dll
+/Users/joeg/project/easypos.api.git/PaymentGateway/bin/Debug/net8.0/PaymentGateway.pdb
+/Users/joeg/project/easypos.api.git/PaymentGateway/obj/Debug/net8.0/PaymentGateway.csproj.AssemblyReference.cache
+/Users/joeg/project/easypos.api.git/PaymentGateway/obj/Debug/net8.0/PaymentGateway.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joeg/project/easypos.api.git/PaymentGateway/obj/Debug/net8.0/PaymentGateway.AssemblyInfoInputs.cache
+/Users/joeg/project/easypos.api.git/PaymentGateway/obj/Debug/net8.0/PaymentGateway.AssemblyInfo.cs
+/Users/joeg/project/easypos.api.git/PaymentGateway/obj/Debug/net8.0/PaymentGateway.csproj.CoreCompileInputs.cache
+/Users/joeg/project/easypos.api.git/PaymentGateway/obj/Debug/net8.0/PaymentGateway.dll
+/Users/joeg/project/easypos.api.git/PaymentGateway/obj/Debug/net8.0/refint/PaymentGateway.dll
+/Users/joeg/project/easypos.api.git/PaymentGateway/obj/Debug/net8.0/PaymentGateway.pdb
+/Users/joeg/project/easypos.api.git/PaymentGateway/obj/Debug/net8.0/PaymentGateway.genruntimeconfig.cache
+/Users/joeg/project/easypos.api.git/PaymentGateway/obj/Debug/net8.0/ref/PaymentGateway.dll
+/Users/joeg/project/easypos.api.git/PaymentGateway/bin/Debug/net8.0/PaymentGatewaySQL/V20241112033808__payment-config-add-field.sql
+/Users/joeg/project/easypos.api.git/PaymentGateway/bin/Debug/net8.0/PaymentGatewaySQL/V20241225173306__alert-payment-config-field.sql

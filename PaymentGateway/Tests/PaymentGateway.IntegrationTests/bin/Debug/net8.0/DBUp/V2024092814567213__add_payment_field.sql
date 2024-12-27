@@ -1,0 +1,4 @@
+BEGIN;
+ALTER TABLE `payment`
+    ADD COLUMN `member_id` VARCHAR(36) NOT NULL;
+COMMIT;
